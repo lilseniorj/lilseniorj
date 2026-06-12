@@ -55,6 +55,7 @@ de tesis: reclutamiento inteligente con IA.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jesusvarguer18-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jesusvarguer18/)
 [![Email](https://img.shields.io/badge/Email-jesusvarguer18@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jesusvarguer18@gmail.com)
 [![X](https://img.shields.io/badge/X-@SeniorJOfficial-000000?style=flat-square&logo=x)](https://x.com/SeniorJOfficial)
+[![Platzi](https://img.shields.io/badge/Platzi-jesusvarguer18-98CA3F?style=flat-square&logo=platzi&logoColor=white)](https://platzi.com/p/jesusvarguer18/)
 
 ---
 
