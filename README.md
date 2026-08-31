@@ -6,13 +6,33 @@ Desarrollador Full-Stack & especialista en automatización con IA
 📍 Montería, Colombia
 ```
 
-Construyo experiencias web modernas con **JavaScript, TypeScript y React**, y automatizo
-procesos de negocio con **n8n y agentes de IA**. Creador de **CandyDatos**, mi proyecto
-de tesis: reclutamiento inteligente con IA.
+Ingeniero de Sistemas (grado en noviembre de 2026). Construyo productos web completos con
+**React, Next.js, TypeScript y Firebase**, y automatizo procesos de negocio con **n8n y
+agentes de IA**. En 2026 entregué **once productos a clientes reales**: una tienda en línea
+con pasarela de pagos, software de gestión para una clínica odontológica y varios sistemas
+de agendamiento. Creador de **CandyDatos**, mi proyecto de tesis.
 
 🌐 **Portafolio: [jesusvargas.web.app](https://jesusvargas.web.app)**
 
-## 🚀 Proyectos destacados
+## 💼 Trabajo para clientes · 2026
+
+| Cliente | Qué construí | Stack |
+|---|---|---|
+| **Origen 21** | E-commerce de ropa masculina: catálogo con variantes, checkout con Wompi (5 medios de pago), webhook idempotente de confirmación de pago y panel admin con analítica de ventas | Next.js 15 · React 19 · TypeScript · Firestore · Wompi |
+| **SoiDentist** | Software de gestión odontológica: agenda, historia clínica y pacientes para usuarias sin perfil técnico. Reglas de Firestore cubiertas por 35 pruebas automatizadas | React · TypeScript · Firebase · Vitest · PWA |
+| **Chuky Tattoo** | Sitio y sistema de reservas de citas para tatuador, con panel de administración | React · TypeScript · Firebase |
+| [**Yonkō Bar & Vape**](https://yonkobarvape.web.app) | Carta digital por QR con pedidos y reservas; login con Google al enviar, como filtro anti-spam | React · Firebase Auth |
+| [**Luxtro**](https://luxtro-co.web.app) | Landing de producto para marca de cera capilar, con formulario y carrusel | React 19 · Vite · Tailwind · EmailJS |
+| **El Roble Parrilla Bar** | Landing cinematográfica: el video de fondo avanza cuadro a cuadro con el scroll | React · Vite · GSAP ScrollTrigger · Lenis |
+| **Restaurante Wrap** | Sitio de una página con carta completa, pedidos por WhatsApp y mapa, sin dependencias | HTML · CSS · JavaScript |
+| **DJ Steve Jost** | Web de marca personal con tarjeta de Instagram integrada | HTML · CSS · JavaScript |
+| **Lubricantes La 30** | Control de cambios de aceite con consulta por placa o cédula | JavaScript · Supabase · SQL |
+| **SURTICLINICAS** | Tableros de ventas, clientes, rotación de inventario y proveedores | Power BI · DAX |
+
+> Varios de estos no tienen enlace público: son sistemas internos, repositorios privados de
+> cliente o sitios cuyo hosting gestiona el cliente.
+
+## 🚀 Proyectos propios
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -31,9 +51,12 @@ de tesis: reclutamiento inteligente con IA.
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ## 🎓 Certificaciones (Platzi)
 

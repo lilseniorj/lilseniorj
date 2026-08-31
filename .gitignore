@@ -1,0 +1,17 @@
+#Vscode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Documentos personales (actas, diplomas, certificados)
+acta-grado.*
+diploma*
+
+# El CV se queda en local. Este repo es el perfil público de GitHub y el
+# HTML del CV lleva el teléfono en texto plano; los PDF además se
+# regeneran desde el HTML con Chrome headless, así que no hay por qué
+# versionarlos.
+*.pdf
+cv-jesus-vargas*.html
+CV_*.md
