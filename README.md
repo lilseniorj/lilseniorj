@@ -60,14 +60,27 @@ de agendamiento. Creador de **CandyDatos**, mi proyecto de tesis.
 
 ## 🎓 Certificaciones (Platzi)
 
-- ✓ [Patrones de Diseño y SOLID en Python](https://platzi.com/p/jesusvarguer18/curso/11025-course/diploma/detalle/) — 2026
-- ✓ [Python: PIP y Entornos Virtuales](https://platzi.com/p/jesusvarguer18/curso/4261-course/diploma/detalle/) — 2026
-- ✓ [Complejidad Algorítmica con Python](https://platzi.com/p/jesusvarguer18/curso/1775-course/diploma/detalle/) — 2026
+**Python y arquitectura de software**
+
+- ✓ [Patrones de Diseño y SOLID en Python](https://platzi.com/p/jesusvarguer18/curso/11025-solid-python/diploma/detalle/) — 2026
+- ✓ [Python Avanzado para Arquitectura de Proyectos y PyPI](https://platzi.com/p/jesusvarguer18/curso/12350-python-avanzado/diploma/detalle/)
+- ✓ [Complejidad Algorítmica con Python](https://platzi.com/p/jesusvarguer18/curso/1775-algoritmos-python/diploma/detalle/) — 2026
+- ✓ [Python Orientado a Objetos](https://platzi.com/p/jesusvarguer18/curso/12302-course/diploma/detalle/) — 2026
 - ✓ [Python: Comprehensions, Funciones y Manejo de Errores](https://platzi.com/p/jesusvarguer18/curso/4260-course/diploma/detalle/) — 2026
+- ✓ [Python: PIP y Entornos Virtuales](https://platzi.com/p/jesusvarguer18/curso/4261-python-pip/diploma/detalle/) — 2026
+- ✓ [Python Práctico: Creación de un CRUD](https://platzi.com/p/jesusvarguer18/curso/1378-python-practico/diploma/detalle/)
+- ✓ [Estadística Computacional con Python](https://platzi.com/p/jesusvarguer18/curso/1835-programacion-estocastica/diploma/detalle/)
+
+**Automatización e IA**
+
 - ✓ [n8n Self-Hosted para Empresas](https://platzi.com/p/jesusvarguer18/curso/12255-course/diploma/detalle/) — 2026
 - ✓ [Workflows Profesionales con n8n](https://platzi.com/p/jesusvarguer18/curso/12250-course/diploma/detalle/) — 2026
 - ✓ [Automatizaciones con n8n](https://platzi.com/p/jesusvarguer18/curso/12245-course/diploma/detalle/) — 2026
-- ✓ [Python Orientado a Objetos](https://platzi.com/p/jesusvarguer18/curso/12302-course/diploma/detalle/) — 2026
+- ✓ [Crea un asistente de IA que trabaje por ti sin programar](https://platzi.com/p/jesusvarguer18/curso/13824-asistente-ai/diploma/detalle/)
+
+**Desarrollo web**
+
+- ✓ [Introducción al Desarrollo Backend](https://platzi.com/p/jesusvarguer18/curso/4656-backend/diploma/detalle/)
 - ✓ [HTML y CSS — Curso Definitivo](https://platzi.com/p/jesusvarguer18/curso/2008-course/diploma/detalle/) — 2021
 
 [Perfil completo en Platzi →](https://platzi.com/p/jesusvarguer18/)
